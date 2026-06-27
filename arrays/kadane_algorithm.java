@@ -1,5 +1,4 @@
-package arrays;
-
+import java.util.*;
 class kadane_algorithm {
     public static void main(String args[]) {
         int ar[] = { 5, 4, -1, 7, 8 };

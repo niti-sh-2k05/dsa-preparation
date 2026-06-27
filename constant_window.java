@@ -1,4 +1,4 @@
-package arrays;
+import java.util.*;
 
 public class constant_window {
     public static void main(String[] args) {

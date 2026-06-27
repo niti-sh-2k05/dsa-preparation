@@ -1,5 +1,4 @@
-package arrays;
-
+import java.util.*;
 public class constant_window {
     public static void main(String[] args) {
         int ar[] = { -1, 2, 3, 3, 4, 5, -1 };

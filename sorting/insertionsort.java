@@ -1,4 +1,4 @@
-package sorting;
+import java.util.*;
 
 public class insertionsort {
     public static void main(String[] args) {

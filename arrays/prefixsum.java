@@ -1,4 +1,4 @@
-package arrays;
+import java.util.*;
 
 public class prefixsum {
     public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package arrays;
+import java.util.*;
 
 class kadane_algorithm {
     public static void main(String args[]) {

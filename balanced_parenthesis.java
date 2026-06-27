@@ -1,5 +1,3 @@
-package strings;
-
 import java.util.*;
 
 public class balanced_parenthesis {
@@ -27,12 +25,4 @@ public class balanced_parenthesis {
             System.out.println("False");
         }
     }
-}
-
-import java.util.*;
-
-class Program {
-public static void main(String[] args) {
-Scanner inp = new Scanner(System.in);
-}
 }

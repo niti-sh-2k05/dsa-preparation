@@ -1,5 +1,4 @@
-package arrays;
-
+import java.util.*;
 class max_min {
     public static void main(String args[]) {
         int[] ar = { 10, 20, 34, 54, 76, 34, 65 };

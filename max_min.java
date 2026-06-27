@@ -1,4 +1,4 @@
-package arrays;
+import java.util.*;
 
 class max_min {
     public static void main(String args[]) {

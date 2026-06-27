@@ -1,5 +1,4 @@
-package arrays;
-
+import java.util.*;
 public class second_largest {
     public static void main(String args[]) {
         int[] ar = { 23, 45, 76, 23, 73 };

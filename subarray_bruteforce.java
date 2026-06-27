@@ -1,4 +1,4 @@
-package arrays;
+import java.util.*;
 
 public class subarray_bruteforce {
     public static void main(String[] args) {

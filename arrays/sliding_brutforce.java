@@ -1,5 +1,4 @@
-package arrays;
-
+import java.util.*;
 public class sliding_brutforce {
 
     public static void main(String args[]) {

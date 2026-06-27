@@ -1,4 +1,4 @@
-package arrays;
+import java.util.*;
 
 public class check_sort {
     public static void main(String args[]) {
